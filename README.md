@@ -1,4 +1,5 @@
-## Welcome to GitHub Pages
+## AI for Metaverse: Touch the Future
+### A NeurIPS 2023 Workshop
 
 You can use the [editor on GitHub](https://github.com/ai4metaverse/ai4metaverse.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
